@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&family=Red+Hat+Display:wght@500;700;900&display=swap');
+
+
+
+:root{
+    --white: hsl(0, 0%, 100%);
+    --light-gray: hsl(212, 45%, 89%);
+    --grayish-blue: hsl(220, 15%, 55%);
+    --dark-blue: hsl(218, 44%, 22%);
+}
+
+img{
+    max-width:100%; /*damit es nicht über die Karte 
+    raus geht*/
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Outfit', sans-serif;
+    background-color: var(--light-gray);
+    min-height: 100vh;
+    display: flex;
+    align-items:center;
+    font-size: 15px;
+}
+
+.container{
+    max-width: 360px;
+    margin:0 auto;
+
+}
+
+.card{
+    background-color: white;
+    padding: 18px;
+    border-radius: 17px;
+    text-align: center;
+}
+
+.text{
+    padding: 22px 10px;
+}
+
+.text h1{
+    color: var(--dark-blue);
+    padding-bottom: 15px;
+}
+
+.text p{
+    color: var(--grayish-blue);
+}
+
