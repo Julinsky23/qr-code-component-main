@@ -47,10 +47,12 @@ body{
 
 .text h1{
     color: var(--dark-blue);
-    padding-bottom: 15px;
+    padding-bottom: 5px;
+    font-size: 24px;
 }
 
 .text p{
     color: var(--grayish-blue);
+    padding: 0.5rem 1.5rem;
 }
 
