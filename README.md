@@ -10,8 +10,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 This was a simple task from Frontend Mentor to get started with HTML & CSS. 
 
@@ -25,4 +23,3 @@ This was a simple task from Frontend Mentor to get started with HTML & CSS.
 - CSS
 - Flexbox
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
