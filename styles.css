@@ -12,6 +12,7 @@
 img{
     max-width:100%; /*damit es nicht über die Karte 
     raus geht*/
+    border-radius: 17px;
 }
 
 *{
@@ -54,5 +55,10 @@ body{
 .text p{
     color: var(--grayish-blue);
     padding: 0.5rem 1.5rem;
+}
+
+.information{
+    font-size: 12px;
+    padding: 22px 45px;
 }
 
